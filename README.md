@@ -230,7 +230,7 @@ Then go to the client folder in cmd and do the same
 
 - [**Abu Humayed Azim Fahmid**](https://github.com/fahmid111) - 1805036
 
-- **Asif Shahriar** - 1805040
+- [**Asif Shahriar**](https://github.com/asif-shahriar11) - 1805040
 
   
 
